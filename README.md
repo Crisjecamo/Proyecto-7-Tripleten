@@ -1,2 +1,4 @@
-# Proyecto-7-Tripleten-
-Estudio de un caso analítico sobre Zuber, una nueva empresa de viajes compartidos que se está lanzando en Chicago. Se requiere encontrar patrones en la información disponible y comprender las preferencias de los pasajeros y el impacto de los factores externos en los viajes.
+# Proyecto 7 - Recopilación y almacenamiento de datos (SQL)
+El objetivo de este proyecto poner en práctica los conocimientos adquiridos sobre la Recopilación y almacenamiento de datos con SQL. Se recuperaron los datos por medios de queries con SQL y se proporcionaron tres datasets con los datos recuperados.
+
+Las habilidades o conocimientos que se ponen en práctica son: hacer consultas de SQL, análisis de datos con Python, formulación de hipótesis y creación de gráficos.
